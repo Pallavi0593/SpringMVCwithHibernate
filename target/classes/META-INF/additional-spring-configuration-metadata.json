@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "db.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'db.driver'"
+  },
+  {
+    "name": "db.url",
+    "type": "java.lang.String",
+    "description": "A description for 'db.url'"
+  },
+  {
+    "name": "db.username",
+    "type": "java.lang.String",
+    "description": "A description for 'db.username'"
+  },
+  {
+    "name": "db.password",
+    "type": "java.lang.String",
+    "description": "A description for 'db.password'"
+  },
+  {
+    "name": "hp.dailect",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.dailect'"
+  },
+  {
+    "name": "hp.hbm2ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.hbm2ddl'"
+  },
+  {
+    "name": "hp.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.show_sql'"
+  },
+  {
+    "name": "hp.format_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.format_sql'"
+  },
+  {
+    "name": "hp.packageToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.packageToScan'"
+  },
+  {
+    "name": "hp.PackageToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.PackageToScan'"
+  },
+  {
+    "name": "hp.PackageToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.PackageToScan'"
+  },
+  {
+    "name": "hp.PackageToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.PackageToScan'"
+  },
+  {
+    "name": "hp.PackageToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.PackageToScan'"
+  },
+  {
+    "name": "hp.PackageToScan",
+    "type": "java.lang.String",
+    "description": "A description for 'hp.PackageToScan'"
+  }
+]}
